@@ -20,4 +20,8 @@ div {
     text-align: center;
 }
 
+p {
+    text-align: center;
+}
+
 .cell.taken { cursor: not-allowed;}
